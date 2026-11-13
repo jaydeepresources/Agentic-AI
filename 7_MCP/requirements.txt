@@ -1,0 +1,4 @@
+mcp>=2.0.0,<3.0.0
+python-dotenv>=1.0.0
+rich>=13.7.0
+sympy>=1.13.0
