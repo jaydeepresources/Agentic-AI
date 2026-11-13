@@ -1,0 +1,5 @@
+numpy>=1.26
+openai>=1.30
+pypdf>=4.2
+python-dotenv>=1.0
+rich>=13.7
